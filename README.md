@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Pravendra
-- Java developer with 2 years of experience in designing the backend data-base and building Spring-Boot architected Micro Services by applying relevant technical skills.
-- I also identify software bugs and develop fixes to be implemented which increases efficiency.
-- Skilled in Spring Boot, Hibernate, Java, Aspect-Oriented Programming (AOP), and Algorithms.
+- Skilled in JAVA, Python, SQL, Spring Boot, Hibernate, Aspect-Oriented Programming (AOP), Data Structure and Algorithms.
 - Strong engineering professional with a Bachelor's degree focused in Computer Science Concepts from Sagar Institute of Research & Technology, Bhopal-462041.
 
 <!---
